@@ -1,0 +1,13 @@
+.toolbar-nav {
+    height: 45px;
+    background-color: #6f00ff;
+}
+
+.btn-btn-navbar:hover {
+    border-bottom: 5px double;
+    color: white;
+}
+
+.btn-btn-navbar {
+    margin-right: 10px;
+}

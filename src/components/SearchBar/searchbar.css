@@ -1,0 +1,14 @@
+.searchs:hover {
+    box-shadow: -1px 10px 29px 0px rgba(72, 50, 202, 0.8);
+}
+
+.searchs {
+    width: 80%;
+    margin: 0 auto;
+}
+
+@media  screen and (max-width: 750px) {
+    .searchs {
+        width: 50%;
+    }
+}

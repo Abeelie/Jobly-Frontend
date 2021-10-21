@@ -1,0 +1,9 @@
+.card-form-login {
+    max-width: 550px;
+}
+
+@media  screen and (max-width: 750px) {
+    .card-form-login {
+        max-width: 95%;
+    }
+}

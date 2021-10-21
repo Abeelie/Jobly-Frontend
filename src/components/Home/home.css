@@ -1,0 +1,33 @@
+.hero-section {
+    height: 100%;
+    color: black;
+    margin-top: 50px;
+    width: 90%;
+}
+
+@media screen and (max-width: 900px) {
+    .hero-section {
+        width: 90%;
+    }
+    .text-welcome {
+        text-align: center;
+    }
+    .btn {
+        display: grid;
+    }
+    .hero-section {
+        display: flex;
+        flex-direction: column;
+    }
+    .right{
+        order: 2;
+    }
+    .left{
+        order: 1;
+    }
+    .hero-image {
+        width: 100%;
+        height: auto;
+    }
+}
+
