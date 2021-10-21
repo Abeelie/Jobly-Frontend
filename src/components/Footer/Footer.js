@@ -3,10 +3,11 @@ import { Container } from "@mui/material";
 import { Grid } from "@mui/material";
 import { Box } from "@mui/material";
 import Link from '@mui/material/Link';
+import "./footer.css";
 
 const Footer = () => {
     return (
-        <footer>
+        <footer className="footer">
             <Box style={{backgroundColor:"#6f00ff", color: "white", marginTop: "200px"}}>
                 <Container maxWidth="lg">
                     <Grid container spacing={5}>

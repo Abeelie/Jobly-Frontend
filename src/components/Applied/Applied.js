@@ -34,7 +34,7 @@ const Applied = () => {
   }
 
   return (
-    <div style={{marginTop: "50px", marginBottom: "400px"}}>
+    <div style={{marginTop: "50px"}}>
       <div align="center">
         <h1>Applied Jobs</h1>
       </div>

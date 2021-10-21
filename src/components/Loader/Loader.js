@@ -4,7 +4,7 @@ import LoaderImg from "../../images/loader.png";
 
 const Loader = () => {
   return (
-    <div style={{marginTop: "100px", marginBottom: "300px"}}>
+    <div style={{marginTop: "100px"}}>
       <Box>
         <div align="center">
           <img src={LoaderImg} 
